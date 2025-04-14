@@ -32,5 +32,5 @@ Parce, creativo, artista, polímata, millonario, playboy, amable y color centavo
 <!-- Footer -->
 <p >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=12&duration=2000&pause=8000&color=F7F7F7&center=true&repeat=false&random=true&width=435&lines=Para+cu%C3%A1l+quiere+informaci%C3%B3n+ya+sabes+como+contactarme" alt="Typing SVG" /></a>
-<img src="./assets/emoji.png" alt=":D" width="600"/>
+<img src="./assets/emoji.png" alt=":D" width="70"/>
 </p>
