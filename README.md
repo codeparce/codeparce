@@ -6,7 +6,7 @@
 
 <p align="center">
   <img width="100px" src="https://raw.githubusercontent.com/JinitD/imagens-logs/main/logo.svg" align="center" alt="Tu Logo" />
-  <h2 align="center">¡Hola! No soy Jhonn </h2>
+  <h2 align="center">¡Hola! Soy Jhoan Dorado</h2>
 </p>
 
 <!-- About Me Section -->
