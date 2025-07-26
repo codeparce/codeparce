@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img width="100px" src="https://raw.githubusercontent.com/JinitD/imagens-logs/main/logo.svg" align="center" alt="Tu Logo" />
+  <img width="100px" src="https://raw.githubusercontent.com/codeparce/imagens-logs/main/logocodeparce.svg" align="center" alt="Tu Logo" />
   <h2 align="center">¡Hola! Soy Jhoan Dorado</h2>
 </p>
 
